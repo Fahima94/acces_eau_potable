@@ -1,25 +1,71 @@
-# acces_eau_potable
-Étude et visualisation de l'accès à l'eau potable dans le monde
-Missions effectuées durant ce projet:
-Analyse du besoin client et identification des indicateurs pertinents pour chaque domaine d'expertise.
-Préparation et traitement des données fournies par le Data Engineer, y compris l'extraction d'informations supplémentaires si nécessaire.
-Création d'un blueprint et de mockups pour présenter la structure et les visualisations du tableau de bord.
-Développement du tableau de bord avec Tableau, en mettant l'accent sur une visualisation claire et compréhensible des indicateurs sélectionnés.
-Préparation d'une présentation pour expliquer le contexte, les choix de visualisation et les résultats obtenus.
-Compétences développées et éléments justificatifs:
-Analyse des besoins et formulation de questions analytiques.Cette compétence a été développée lors de l'étape de planification du projet, où j'ai discuté avec les parties prenantes pour comprendre leurs besoins en matière d'analyse de l'eau potable. J'ai formulé des questions analytiques claires et spécifiques pour guider mes analyses.
-Gestion et préparation des données pour l'analyse. J'ai travaillé avec des données volumineuses provenant de plusieurs sources différentes pour ce projet. J'ai utilisé powerquery pour nettoyer et préparer les données en vue de l'analyse.
-Création de visualisations efficaces et adaptées aux types de données. J'ai créé des visualisations claires et efficaces pour communiquer les résultats de mes analyses aux parties prenantes. J'ai utilisé des graphiques, des tableaux et des cartes pour présenter les données de manière à ce qu'elles soient faciles à comprendre pour tous.
-Utilisation de PowerBI pour créer des tableaux de bord interactifs.
-Communication claire et synthèse des résultats pour les parties prenantes.
-Techniques intéressantes utilisées durant le projet:
-Nettoyage et modifications des données avec Tableau
-Utilisation de Tableau pour créer des visualisations interactives et dynamiques.
-Mise en place de filtres et de sélecteurs pour faciliter la navigation et l'exploration des données.
-Combinaison de différents types de graphiques pour représenter efficacement les indicateurs sélectionnés.
-Provenance des données:
-Les données proviennent de l'OMS, de la FAO et d'autres sources fournies par le Data Engineer.
-Livrables:
-Blueprint (format Word ou équivalent)
-Mockup de tableau de bord (format libre)
-Dashboard (lien vers l'histoire Tableau sur Tableau Public et exportation au format PDF)
+# 💧 Accès à l'eau potable dans le monde - DataViz Project
+
+Ce projet vise à analyser et visualiser l'accès à l'eau potable dans le monde à partir de données internationales (OMS, FAO…).  
+Il s’inscrit dans une démarche de data storytelling orientée vers la compréhension des enjeux mondiaux de santé publique.
+
+---
+
+## 🎯 Objectifs
+
+- Identifier les zones géographiques où l’accès à l’eau potable est limité
+- Visualiser les indicateurs clés par région et par année
+- Proposer un tableau de bord interactif permettant une exploration libre des données
+
+---
+
+## 🛠️ Outils & Méthodologie
+
+- **PowerQuery** pour le nettoyage des données
+- **Tableau** pour la visualisation interactive
+- **Microsoft Word & PowerPoint** pour la structuration et présentation du projet
+
+---
+
+## 📁 Contenu du dépôt
+
+| Fichier                                 | Description                                              |
+|----------------------------------------|----------------------------------------------------------|
+| `Behillil_Fahima_1_blueprint_022024.docx` | Cahier des charges et plan fonctionnel                  |
+| `Behillil_Fahima_2_mock_up_022024.pptx` | Maquette graphique du tableau de bord                   |
+| `Behillil_Fahima_3_presentation_022024.pptx` | Présentation synthétique du projet et des résultats     |
+| `P8 tableau WFA.twb`                    | Fichier source Tableau (peut nécessiter Tableau Desktop)|
+| `README.md`                             | Présentation du projet (ce fichier)                     |
+
+---
+
+## 📊 Lien vers le dashboard
+
+🔗 [Voir le dashboard sur Tableau Public](https://public.tableau.com/views/AccesEauPotableMonde2024/...) *(remplace par le vrai lien)*
+
+---
+
+## 🧠 Compétences mises en œuvre
+
+- 🧩 Analyse des besoins métiers et formulation de questions analytiques
+- 🧼 Nettoyage et préparation des données hétérogènes
+- 📊 Création de visualisations claires et adaptées
+- 🧭 Conception d’un tableau de bord interactif
+- 🗣️ Présentation synthétique et pédagogique des résultats
+
+---
+
+## 📌 Techniques avancées
+
+- Utilisation de **filtres dynamiques**, **cartes interactives**, et **histoires Tableau**
+- Structuration en **sections thématiques** (zones géographiques, tendances, alertes)
+- Import et harmonisation de données issues de multiples sources officielles
+
+---
+
+## 📚 Sources des données
+
+- 🌍 OMS (Organisation Mondiale de la Santé)
+- 🌾 FAO (Food and Agriculture Organization)
+- 📦 Autres sources transmises par le Data Engineer
+
+---
+
+**Réalisé par :**  
+👩‍💻 *Fahima Behillil – Data Analyst Freelance*
+
+---
