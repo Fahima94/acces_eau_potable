@@ -35,7 +35,7 @@ Il s’inscrit dans une démarche de data storytelling orientée vers la compré
 
 ## 📊 Lien vers le dashboard
 
-🔗 [Voir le dashboard sur Tableau Public](https://public.tableau.com/views/AccesEauPotableMonde2024/...) *(remplace par le vrai lien)*
+🔗 [Voir le dashboard sur Tableau Public](https://public.tableau.com/app/profile/behillil.fahima/viz/shared/B4TC36HTM)
 
 ---
 
